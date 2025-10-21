@@ -1,7 +1,7 @@
 
 # Chill Hack
 
-* IP = 10.10.175.103
+* IP = 10.201.18.16
 
 ## Enumerating And Scanning:
 
